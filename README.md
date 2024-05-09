@@ -7,6 +7,7 @@ Technology Used
 1)  Server - Tomcat Server inside Eclipse.
 2)  Frontend - JSP from Java with CSS and JavaSrcipt.
 3)  Backend - We use Servlets for writing backend APIs and connections.
+4)  Database - We built our database inside PostgreSql and create statement of the ddatabase is written in database.db.
 
 Steps to follow for this project to work
 1)  First configure the server and clean it.
